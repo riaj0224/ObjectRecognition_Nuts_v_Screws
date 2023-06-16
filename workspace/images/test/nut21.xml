@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nut</folder>
+	<filename>nut21.jpg</filename>
+	<path>C:\Users\Oscar\Documents\Image Processing\Tensorflow Object Detection\TFODCourse\Tensorflow\workspace\images\collectedimages\nut\nut21.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nut</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>406</xmin>
+			<ymin>271</ymin>
+			<xmax>461</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>screw</folder>
+	<filename>screw41.jpg</filename>
+	<path>C:\Users\Oscar\Documents\Image Processing\Tensorflow Object Detection\TFODCourse\Tensorflow\workspace\images\collectedimages\screw\screw41.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Screw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>93</ymin>
+			<xmax>282</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,8 @@
+item { 
+	name:'Nut'
+	id:1
+}
+item { 
+	name:'Screw'
+	id:2
+}
