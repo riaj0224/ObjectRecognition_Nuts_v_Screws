@@ -67,6 +67,11 @@ The project has the following file structure:
 
 The trained model can be evaluated by running the provided Jupyter notebook, which includes the image recognition code. The notebook loads the trained model, processes the test images, and displays the detection results.
 
+## :raising_hand: Acknowledgements
+
+Special thanks to the [TFODCourse](https://github.com/nicknochnack/TFODCourse) repository by [Nicknochnack](https://github.com/nicknochnack), which provided valuable guidance and resources for this project, they had a heavy impact on the project. You can watch a helpful YouTube video from the repository [here](https://www.youtube.com/watch?v=yqkISICHH-U). 
+
+
 ## :raising_hand: Contributing
 
 Contributions to this project are welcome. If you have any suggestions, please open an issue or submit a pull request.
