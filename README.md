@@ -71,11 +71,6 @@ The trained model can be evaluated by running the provided Jupyter notebook, whi
 
 Special thanks to the [TFODCourse](https://github.com/nicknochnack/TFODCourse) repository by [Nicknochnack](https://github.com/nicknochnack), which provided valuable guidance and resources for this project, they had a heavy impact on the project. You can watch a helpful YouTube video from the repository [here](https://www.youtube.com/watch?v=yqkISICHH-U). 
 
-
-## :raising_hand: Contributing
-
-Contributions to this project are welcome. If you have any suggestions, please open an issue or submit a pull request.
-
 ## :page_facing_up: License
 
 This project is licensed under the MIT License. You are free to use, modify, and distribute the code for educational or commercial purposes.
